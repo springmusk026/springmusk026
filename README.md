@@ -27,6 +27,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=springmusk026&" alt="springmusk026" /></p>
 
-<p>I am Currently Actively handling TG Channel of <a href="https://t.me/Layout_musk" target="blank">"Lgl Team" </p>
+<p>I am Currently Actively handling TG Channel of <a href="https://t.me/Layout_musk" target="blank">"Lgl Team"</a> </p>
 
-<p>Github <a href="https://github.com/LGLTeam" target="blank">"Lgl Team" </p>
+<p>Github <a href="https://github.com/LGLTeam" target="blank">"Lgl Team"</a> </p>
