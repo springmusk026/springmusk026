@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **C++,Java,Python and Dart**
 
-- 👨‍💻 All of my projects are available at [https://github.com/springmusk026] (Check Me)
+- 👨‍💻 All of my projects are available at <p> <a href="https://github.com/springmusk026" target="blank">"Check me"</a> </p>
 
-- 📝 I regularly write articles on [Https://muskmods.online/] (Https://muskmods.com/)
+- 📝 I regularly write articles on <p> <a href="https://muskmods.com" target="blank">"Check me"</a> </p>
 
 - 💬 Ask me about **Life**
 
