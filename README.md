@@ -13,15 +13,15 @@
 
 - 👯 I’m looking to collaborate on [N/A](N/A)
 
-- 🤝 I’m looking for help with [Elon Musk](N/S)
+- 🤝 I’m looking for help with [Elon Musk](N/A)
 
 - 👨‍💻 All of my projects are available at [N/A](N/A)
 
-- 📝 I regularly write articles on [https://muskmods.com](https://muskmods.com)
+- 📝 I regularly write articles on [https://basantasapkota.com](https://basantasapkota.com)
 
 - 💬 Ask me about **Life**
 
-- 📫 How to reach me **mail@muskmodsx.com**
+- 📫 How to reach me **springmusk@gmail.com**
 
 - 📄 Know about my experiences [N/A](N/A)
 
