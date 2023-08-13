@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=springmusk026" alt="springmusk026" /></a> </p>
 
-<p align="left"> <a href="https://t.me/springmusk" target="blank"><img src="https://img.shields.io/t.me/follow/springmusk?logo=telegram&style=for-the-badge" alt="springmusk" /></a> </p>
+<p align="left"> <a href="https://t.me/springmusk" target="blank"><img src="[https://img.shields.io/t.me/follow/springmusk?logo=telegram&style=for-the-badge](https://avatars.githubusercontent.com/u/85071855?s=400&u=ed30f171525ce7fd5ec7e640db1260a31682d6e1&v=4)" alt="springmusk" /></a> </p>
 
 - 🔭 I’m currently working on [Injection Framework](https://github.com/springmusk026/Injector-Base)
 
