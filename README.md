@@ -1,120 +1,118 @@
-<h1 align="center">Hi, I'm Spring Musk</h1>
-<h3 align="center">Software Developer | Systems Engineer | Open Source Enthusiast</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Spring+Musk;Full+Stack+Developer;Android+Developer;System+Engineer" alt="Typing SVG" />
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/springmusk026">
-    <img src="https://komarev.com/ghpvc/?username=springmusk026&label=Profile%20views&color=0e75b6&style=flat" alt="springmusk026" />
+    <img src="https://komarev.com/ghpvc/?username=springmusk026&label=Profile%20views&color=6366F1&style=flat" alt="Profile Views" />
   </a>
-</p>
-
----
-
-## About Me
-
-I'm a passionate software developer from Nepal with a strong background in game development, mobile applications, and system programming. I continually explore new technologies and sharpen my skills in a wide array of programming languages, including Java, C++, C, Rust, and more. My expertise spans across building innovative tools for game modding, mobile optimization, and modern web applications.
-
----
-
-## 🚀 Current Projects
-
-- **[Imgui-Unity](https://github.com/springmusk026/Imgui-Unity)**  
-  Enhancing Unity game development by integrating the ImGui GUI library for efficient debugging and rapid prototyping.
-
-- **[AntiBloater](https://github.com/springmusk026/AntiBloater)**  
-  An Android application designed to optimize device performance by removing unwanted bloatware via local ADB connections.
-
-- **[vApp-Inject](https://github.com/springmusk026/vApp-Inject)**  
-  A project dedicated to advanced system modifications and code injection techniques on Android platforms.
-
----
-
-## 🌱 Learning & Growth
-
-I am continuously expanding my skill set and staying up-to-date with modern development trends. My current focus areas include:
-- **Backend & Web Development:** Enhancing proficiency in plain PHP and CodeIgniter; diving deep into modern JavaScript with TypeScript, React, Node.js, MongoDB, and Express.
-- **System & Game Development:** Advancing my skills in C, C++, and Rust, with a particular interest in game modding and low-level system programming.
-
----
-
-## 💻 Technical Skills
-
-<p align="center">
-  <!-- Mobile & Cloud -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+  <a href="https://basantasapkota026.com.np">
+    <img src="https://img.shields.io/badge/Website-Portfolio-6366F1" alt="Website" />
   </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <a href="mailto:springmusk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-6366F1" alt="Email" />
   </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  </a>
-  
-  <!-- Programming Languages -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
-  </a>
-  
-  <!-- Web & JavaScript Stack -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  
-  <!-- PHP & CodeIgniter -->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
-  </a>
-  
-  <!-- Additional Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
----
+<br/>
 
-## 📫 Get In Touch
+## 👨‍💻 About Me
 
-If you'd like to collaborate or just have a chat about technology and innovation, feel free to reach out:
+I'm a versatile Full Stack & Android Developer from Nepal with 5+ years of experience. I specialize in building robust applications, from mobile apps to enterprise systems. My expertise spans across system programming, game development tools, and cloud infrastructure.
 
-- **Email:** [springmusk@gmail.com](mailto:springmusk@gmail.com)
-- **Website:** [basantasapkota026.com.np](https://basantasapkota026.com.np)
+- 🔭 Currently working on Android development and system optimization tools
+- 🌱 Learning Rust and advanced cloud architecture
+- 💬 Ask me about Android, Backend Development, or System Programming
+- ⚡ Fun fact: I love reverse engineering and contributing to educational tools
 
----
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Core Skills
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Mobile & Frontend
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Cloud
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![MitraAI](https://github-readme-stats.vercel.app/api/pin/?username=springmusk026&repo=MitraAI-AI-Chat-Companion&theme=tokyonight)](https://github.com/springmusk026/MitraAI-AI-Chat-Companion)
+[![X-Pense](https://github-readme-stats.vercel.app/api/pin/?username=springmusk026&repo=X-Pense&theme=tokyonight)](https://github.com/springmusk026/X-Pense)
+[![AntiBloater](https://github-readme-stats.vercel.app/api/pin/?username=springmusk026&repo=AntiBloater&theme=tokyonight)](https://github.com/springmusk026/AntiBloater)
+[![MovieApp](https://github-readme-stats.vercel.app/api/pin/?username=springmusk026&repo=MovieApp&theme=tokyonight)](https://github.com/springmusk026/MovieApp)
+
+</div>
+
+<br/>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/springmusk026">
-    <img src="https://github-readme-stats.vercel.app/api?username=springmusk026&show_icons=true&locale=en" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=springmusk026&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=springmusk026&theme=tokyonight" alt="GitHub Streak" height="165" />
+</div>
+
+<br/>
+
+## 🏆 Achievements
+
+- 5+ years of experience in full-stack development
+- Expertise in Android development with Kotlin and Java
+- Strong background in system programming and optimization
+- Contributed to various open-source projects
+- Built and maintained enterprise-level applications
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="mailto:springmusk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=springmusk026" alt="GitHub Streak Stats" />
-</p>
+  <a href="https://basantasapkota026.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://np.linkedin.com/in/basanta-sapkota-57529923b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
