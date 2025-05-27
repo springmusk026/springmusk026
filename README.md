@@ -6,7 +6,7 @@
   <a href="https://github.com/springmusk026">
     <img src="https://komarev.com/ghpvc/?username=springmusk026&label=Profile%20views&color=6366F1&style=flat" alt="Profile Views" />
   </a>
-  <a href="https://basantasapkota026.com.np" title="Basanta Sapkota Portfolio Website">
+  <a href="https://basantasapkota026.com.np" title="Basanta Sapkota Portfolio Website" rel="dofollow">
   <img src="https://img.shields.io/badge/Website-Portfolio-6366F1" alt="Visit Basanta Sapkota's Portfolio Website - Web Developer from Nepal" />
 </a>
 
