@@ -23,61 +23,100 @@
 
 ---
 
-I build across the Android stack and backend systems, with a focused interest in low-level tooling — Unity game internals, IL2CPP instrumentation, and ADB automation. My open-source work leans heavily toward the reverse engineering and modding community, where the most technically interesting problems live.
+I build Android apps, backend services and, lately, small native Mac tools. Most of my open-source work is low-level tooling: Unity IL2CPP internals, native Android code, ADB automation.
 
-Five years in, working across mobile, systems, and web. Currently learning Rust for systems work and exploring advanced cloud architecture at scale.
+Five years in, across mobile, systems and web. Currently learning Rust.
 
 <br/>
 
 ## Projects
 
-### Reverse Engineering & Instrumentation
+### Mac menu bar tools
 
-The repos with the most traction. Tools for inspecting and modifying Unity game binaries at runtime.
+Small, local-only utilities. Each is a menu bar app plus a CLI, with no network access and no accounts.
 
 <table>
   <tr>
-    <td><strong><a href="https://github.com/springmusk026/Imgui-Unity">Imgui-Unity</a></strong></td>
-    <td>ImGui overlay integration for Unity games. Hooks into the render pipeline to expose in-game debug interfaces without modifying game source.</td>
-    <td><code>C++</code></td>
-    <td>⭐ 52 &nbsp;·&nbsp; 🍴 79</td>
+    <td><strong><a href="https://github.com/springmusk026/Portside">Portside</a></strong></td>
+    <td>Every dev server running on your Mac, which project it belongs to, and a one-click stop.</td>
+    <td><code>Swift</code></td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/springmusk026/Frida-Il2cpp-Dumper">Frida-Il2cpp-Dumper</a></strong></td>
-    <td>Dumps IL2CPP metadata from live processes using Frida. Useful for analyzing stripped Unity binaries without a symbol table.</td>
-    <td><code>TypeScript</code></td>
-    <td>⭐ 25 &nbsp;·&nbsp; 🍴 15</td>
+    <td><strong><a href="https://github.com/springmusk026/Sweepside">Sweepside</a></strong></td>
+    <td>Finds the gigabytes old projects hold in <code>node_modules</code>, <code>.venv</code>, <code>target</code> and DerivedData, and moves them to the Trash with undo.</td>
+    <td><code>Swift</code></td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/springmusk026/libmain.so">libmain.so</a></strong></td>
-    <td>Reference source for <code>libmain.so</code> in Unity games. Used as a base for understanding and extending the native Unity bootstrap layer.</td>
-    <td><code>C++</code></td>
-    <td>⭐ 19 &nbsp;·&nbsp; 🍴 4</td>
+    <td><strong><a href="https://github.com/springmusk026/Peekside">Peekside</a></strong></td>
+    <td>A timeline of which apps used your microphone and camera today, and which can read what you type.</td>
+    <td><code>Swift</code></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/springmusk026/ClaudeMeter">ClaudeMeter</a></strong></td>
+    <td>Claude Code usage in the menu bar: plan limits, live sessions and cost.</td>
+    <td><code>Swift</code></td>
   </tr>
 </table>
 
-### Android Applications
+### Reverse engineering
+
+Tools for inspecting Unity IL2CPP binaries and protecting Android apps. These have the most stars.
+
+<table>
+  <tr>
+    <td><strong><a href="https://github.com/springmusk026/Il2CppDumper-Python">Il2CppDumper-Python</a></strong></td>
+    <td>Extracts type, method and field metadata from Unity IL2CPP games.</td>
+    <td><code>Python</code></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/springmusk026/Frida-Il2cpp-Dumper">Frida-Il2cpp-Dumper</a></strong></td>
+    <td>Dumps IL2CPP metadata from a running process with Frida, for stripped binaries without symbols.</td>
+    <td><code>TypeScript</code></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/springmusk026/Android-Native-Il2cppDumper">Android-Native-Il2cppDumper</a></strong></td>
+    <td>The same dump on the phone itself: a Compose app with a C++20 core. No PC, no root.</td>
+    <td><code>Kotlin</code> <code>C++</code></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/springmusk026/Dex2C-Tool">Dex2C</a></strong></td>
+    <td>Converts Android DEX bytecode to native C/C++ so app logic is harder to reverse. Has an <a href="https://github.com/springmusk026/Dex2C-Android">Android client</a>, a <a href="https://github.com/springmusk026/dex2c-web">web front end</a> and a <a href="https://github.com/springmusk026/Dex2C-Backend">backend</a>.</td>
+    <td><code>Kotlin</code> <code>JS</code></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/springmusk026/libmain.so">libmain.so</a></strong></td>
+    <td>Source for <code>libmain.so</code>, the native loader in Unity's Android games.</td>
+    <td><code>C++</code></td>
+  </tr>
+</table>
+
+### Android and web
 
 <table>
   <tr>
     <td><strong><a href="https://github.com/springmusk026/AntiBloater">AntiBloater</a></strong></td>
-    <td>Removes carrier and OEM bloatware via a local ADB connection. No root required — establishes a bridge over USB or Wi-Fi to execute <code>pm uninstall</code> commands selected by the user.</td>
+    <td>Removes carrier and OEM bloatware without root. Opens a local ADB connection and runs the <code>pm uninstall</code> commands you pick.</td>
     <td><code>Kotlin</code></td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/springmusk026/MitraAI-AI-Chat-Companion">MitraAI</a></strong></td>
-    <td>AI chat companion for Android. Built with Jetpack Compose, streaming responses, and local conversation history.</td>
-    <td><code>Kotlin</code></td>
+    <td><strong><a href="https://github.com/springmusk026/CloudEdge">CloudEdge</a></strong></td>
+    <td>A blog and CMS that runs entirely on Cloudflare: Workers, D1, R2, KV and Durable Objects.</td>
+    <td><code>TypeScript</code></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/springmusk026/Open-Monitor-YT">Open-Monitor-YT</a></strong></td>
+    <td>Self-hosted tool for keeping an eye on competing YouTube channels.</td>
+    <td><code>TypeScript</code></td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/springmusk026/Anthropic-Adapter">Anthropic-Adapter</a></strong></td>
+    <td>A small Bun service that accepts Anthropic Messages API requests and forwards them to an OpenAI-compatible backend.</td>
+    <td><code>TypeScript</code></td>
   </tr>
   <tr>
     <td><strong><a href="https://github.com/springmusk026/X-Pense">X-Pense</a></strong></td>
-    <td>Personal expense tracker with category breakdowns and monthly summaries. Offline-first with Room persistence.</td>
-    <td><code>Kotlin</code></td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://github.com/springmusk026/MovieApp">MovieApp</a></strong></td>
-    <td>Movie discovery and tracking app backed by TMDB. Clean Architecture with MVVM, Retrofit, and Glide.</td>
-    <td><code>Kotlin</code></td>
+    <td>Expense tracker with categories, recurring payments and per-card spending. Expo and React Native.</td>
+    <td><code>TypeScript</code></td>
   </tr>
 </table>
 
@@ -101,13 +140,13 @@ IL2CPP / Unity
   </td>
     <td valign="top" width="25%">
 
-**Android**
+**Apps**
 ```
 Kotlin / Java
 Jetpack Compose
-Room / Retrofit
-MVVM / Clean Arch
-Coroutines / Flow
+Swift / SwiftUI
+Flutter
+React Native
 ```
 
   </td>
@@ -117,7 +156,7 @@ Coroutines / Flow
 ```
 TypeScript
 React / Next.js
-Node.js
+Node.js / Bun
 Laravel / PHP
 Tailwind CSS
 ```
@@ -127,10 +166,10 @@ Tailwind CSS
 
 **Infrastructure**
 ```
+Cloudflare
 AWS / GCP
 Docker
 MySQL / MongoDB
-Git
 Linux (Debian)
 ```
 
@@ -142,7 +181,7 @@ Linux (Debian)
 
 ## Writing
 
-I write about systems, Android, and the broader software landscape at [basantasapkota026.com.np](https://basantasapkota026.com.np). Recent:
+I write about systems, Android and developer tools at [basantasapkota026.com.np](https://basantasapkota026.com.np). Recent:
 
 - [I left ChatGPT + the Gemini app for RikkaHub — full control on Android](https://www.basantasapkota026.com.np/2026/03/i-left-chatgpt-gemini-app-for-rikkahub.html)
 - [Issue tracking is dead? The shift to context + agents](https://www.basantasapkota026.com.np/2026/03/issue-tracking-is-dead-is-kind-of.html)
