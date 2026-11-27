@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 742 96" width="742" height="96" role="img" aria-labelledby="t d">
+<title id="t">Contact</title>
+<desc id="d">The hex dump from the top of the page continues and decodes to "t.me/springmusk" and "springmusk.dev".</desc>
+<style>
+.T{font:600 17px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#f0f6fc}.D{font:13px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#9198a1}.G{font:11px ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;fill:#6e7681}.M{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}.S{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}.fb{transform-box:fill-box}
+.m{font:15px ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}.o{fill:#6e7681}.b{fill:#3d444d}@keyframes hx{0%,100%{fill:#9198a1}1.5%,4%{fill:#ff7b8a}7%{fill:#9198a1}}@keyframes as{0%{fill:#6e7681}3%,86%{fill:#ff7b8a}94%,100%{fill:#6e7681}}.h{fill:#9198a1;animation:hx 10s linear infinite}.a{fill:#ff7b8a;font-weight:600;animation:as 10s linear infinite}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<text class="m o" x="0" y="24">00000020</text>
+<text class="m h" x="100" y="24" style="animation-delay:0.30s">74</text>
+<text class="m h" x="126" y="24" style="animation-delay:0.37s">2e</text>
+<text class="m h" x="152" y="24" style="animation-delay:0.44s">6d</text>
+<text class="m h" x="178" y="24" style="animation-delay:0.51s">65</text>
+<text class="m h" x="204" y="24" style="animation-delay:0.58s">2f</text>
+<text class="m h" x="230" y="24" style="animation-delay:0.65s">73</text>
+<text class="m h" x="256" y="24" style="animation-delay:0.72s">70</text>
+<text class="m h" x="282" y="24" style="animation-delay:0.79s">72</text>
+<text class="m h" x="322" y="24" style="animation-delay:0.86s">69</text>
+<text class="m h" x="348" y="24" style="animation-delay:0.93s">6e</text>
+<text class="m h" x="374" y="24" style="animation-delay:1.00s">67</text>
+<text class="m h" x="400" y="24" style="animation-delay:1.07s">6d</text>
+<text class="m h" x="426" y="24" style="animation-delay:1.14s">75</text>
+<text class="m h" x="452" y="24" style="animation-delay:1.21s">73</text>
+<text class="m h" x="478" y="24" style="animation-delay:1.28s">6b</text>
+<text class="m h" x="504" y="24" style="animation-delay:1.35s">0a</text>
+<text class="m b" x="550" y="24">|</text>
+<text class="m a" x="564.0" y="24" style="animation-delay:0.30s">t</text>
+<text class="m a" x="574.4" y="24" style="animation-delay:0.37s">.</text>
+<text class="m a" x="584.8" y="24" style="animation-delay:0.44s">m</text>
+<text class="m a" x="595.2" y="24" style="animation-delay:0.51s">e</text>
+<text class="m a" x="605.6" y="24" style="animation-delay:0.58s">/</text>
+<text class="m a" x="616.0" y="24" style="animation-delay:0.65s">s</text>
+<text class="m a" x="626.4" y="24" style="animation-delay:0.72s">p</text>
+<text class="m a" x="636.8" y="24" style="animation-delay:0.79s">r</text>
+<text class="m a" x="647.2" y="24" style="animation-delay:0.86s">i</text>
+<text class="m a" x="657.6" y="24" style="animation-delay:0.93s">n</text>
+<text class="m a" x="668.0" y="24" style="animation-delay:1.00s">g</text>
+<text class="m a" x="678.4" y="24" style="animation-delay:1.07s">m</text>
+<text class="m a" x="688.8" y="24" style="animation-delay:1.14s">u</text>
+<text class="m a" x="699.2" y="24" style="animation-delay:1.21s">s</text>
+<text class="m a" x="709.6" y="24" style="animation-delay:1.28s">k</text>
+<text class="m a" x="720.0" y="24" style="animation-delay:1.35s">.</text>
+<text class="m b" x="732.4" y="24">|</text>
+<text class="m o" x="0" y="52">00000030</text>
+<text class="m h" x="100" y="52" style="animation-delay:1.42s">73</text>
+<text class="m h" x="126" y="52" style="animation-delay:1.49s">70</text>
+<text class="m h" x="152" y="52" style="animation-delay:1.56s">72</text>
+<text class="m h" x="178" y="52" style="animation-delay:1.63s">69</text>
+<text class="m h" x="204" y="52" style="animation-delay:1.70s">6e</text>
+<text class="m h" x="230" y="52" style="animation-delay:1.77s">67</text>
+<text class="m h" x="256" y="52" style="animation-delay:1.84s">6d</text>
+<text class="m h" x="282" y="52" style="animation-delay:1.91s">75</text>
+<text class="m h" x="322" y="52" style="animation-delay:1.98s">73</text>
+<text class="m h" x="348" y="52" style="animation-delay:2.05s">6b</text>
+<text class="m h" x="374" y="52" style="animation-delay:2.12s">2e</text>
+<text class="m h" x="400" y="52" style="animation-delay:2.19s">64</text>
+<text class="m h" x="426" y="52" style="animation-delay:2.26s">65</text>
+<text class="m h" x="452" y="52" style="animation-delay:2.33s">76</text>
+<text class="m h" x="478" y="52" style="animation-delay:2.40s">0a</text>
+<text class="m b" x="550" y="52">|</text>
+<text class="m a" x="564.0" y="52" style="animation-delay:1.42s">s</text>
+<text class="m a" x="574.4" y="52" style="animation-delay:1.49s">p</text>
+<text class="m a" x="584.8" y="52" style="animation-delay:1.56s">r</text>
+<text class="m a" x="595.2" y="52" style="animation-delay:1.63s">i</text>
+<text class="m a" x="605.6" y="52" style="animation-delay:1.70s">n</text>
+<text class="m a" x="616.0" y="52" style="animation-delay:1.77s">g</text>
+<text class="m a" x="626.4" y="52" style="animation-delay:1.84s">m</text>
+<text class="m a" x="636.8" y="52" style="animation-delay:1.91s">u</text>
+<text class="m a" x="647.2" y="52" style="animation-delay:1.98s">s</text>
+<text class="m a" x="657.6" y="52" style="animation-delay:2.05s">k</text>
+<text class="m a" x="668.0" y="52" style="animation-delay:2.12s">.</text>
+<text class="m a" x="678.4" y="52" style="animation-delay:2.19s">d</text>
+<text class="m a" x="688.8" y="52" style="animation-delay:2.26s">e</text>
+<text class="m a" x="699.2" y="52" style="animation-delay:2.33s">v</text>
+<text class="m a" x="709.6" y="52" style="animation-delay:2.40s">.</text>
+<text class="m b" x="722.0" y="52">|</text>
+<text class="m o" x="0" y="80">0000003f</text>
+</svg>

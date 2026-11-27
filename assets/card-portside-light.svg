@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150" width="400" height="150" role="img" aria-labelledby="t d">
+<title id="t">Portside</title>
+<desc id="d">Every dev server running on your Mac, which project owns it, and a one-click stop. Animation: Four running servers with their ports; one is stopped and fades.</desc>
+<style>
+.T{font:600 17px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#1f2328}.D{font:13px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#59636e}.G{font:11px ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;fill:#8c959f}.M{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}.S{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}.fb{transform-box:fill-box}
+@keyframes pu{0%,100%{opacity:1}50%{opacity:.35}}.pu{animation:pu 2.2s ease-in-out infinite}@keyframes st{0%,38%{opacity:1}46%,82%{opacity:.22}90%,100%{opacity:1}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="399" height="149" rx="12" fill="#f6f8fa" stroke="#d1d9e0"/>
+<g transform="translate(20,20)">
+<g><circle class="pu" cx="8" cy="14" r="4" fill="#1a7f37" style="animation-delay:0.00s"/><rect x="20" y="11" width="46" height="6" rx="3" fill="#59636e"/><text class="M" x="110" y="17.5" text-anchor="end" font-size="10" fill="#8c959f">:3000</text></g>
+<g><circle class="pu" cx="8" cy="41" r="4" fill="#1a7f37" style="animation-delay:0.45s"/><rect x="20" y="38" width="34" height="6" rx="3" fill="#59636e"/><text class="M" x="110" y="44.5" text-anchor="end" font-size="10" fill="#8c959f">:4321</text></g>
+<g style="animation:st 7s ease-in-out infinite"><circle class="pu" cx="8" cy="68" r="4" fill="#1a7f37" style="animation-delay:0.90s"/><rect x="20" y="65" width="52" height="6" rx="3" fill="#59636e"/><text class="M" x="110" y="71.5" text-anchor="end" font-size="10" fill="#8c959f">:6006</text></g>
+<g><circle class="pu" cx="8" cy="95" r="4" fill="#1a7f37" style="animation-delay:1.35s"/><rect x="20" y="92" width="30" height="6" rx="3" fill="#59636e"/><text class="M" x="110" y="98.5" text-anchor="end" font-size="10" fill="#8c959f">:8000</text></g>
+</g>
+<text class="T" x="152" y="40">Portside</text>
+<text class="D" x="152" y="63">Every dev server running on</text>
+<text class="D" x="152" y="81">your Mac, which project owns it,</text>
+<text class="D" x="152" y="99">and a one-click stop.</text>
+<text class="G" x="152" y="130">Swift · menu bar + CLI</text>
+</svg>

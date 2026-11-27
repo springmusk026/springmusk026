@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150" width="400" height="150" role="img" aria-labelledby="t d">
+<title id="t">Dex2C</title>
+<desc id="d">Turns Android DEX bytecode into native C++, so an app's logic is harder to reverse. Animation: Dots flow from a box marked .dex into a box marked C++.</desc>
+<style>
+.T{font:600 17px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#f0f6fc}.D{font:13px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#9198a1}.G{font:11px ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;fill:#6e7681}.M{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}.S{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}.fb{transform-box:fill-box}
+@keyframes f{0%{transform:translateY(0);opacity:0}20%,75%{opacity:1}100%{transform:translateY(30px);opacity:0}}.f{animation:f 1.8s linear infinite backwards}@keyframes g{0%,100%{opacity:.55}50%{opacity:1}}.g{animation:g 1.8s ease-in-out infinite}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="399" height="149" rx="12" fill="#151b23" stroke="#3d444d"/>
+<g transform="translate(20,20)">
+<rect x="15" y="4" width="80" height="30" rx="7" fill="none" stroke="#3d444d" stroke-width="1.5"/>
+<text class="M" x="55" y="24" text-anchor="middle" font-size="12" fill="#9198a1">.dex</text>
+<circle class="f" cx="55" cy="40" r="2.6" fill="#ff7b8a" style="animation-delay:0.0s"/>
+<circle class="f" cx="55" cy="40" r="2.6" fill="#ff7b8a" style="animation-delay:0.6s"/>
+<circle class="f" cx="55" cy="40" r="2.6" fill="#ff7b8a" style="animation-delay:1.2s"/>
+<rect class="g" x="15" y="76" width="80" height="30" rx="7" fill="none" stroke="#ff7b8a" stroke-width="1.5"/>
+<text class="M" x="55" y="96" text-anchor="middle" font-size="12" font-weight="600" fill="#ff7b8a">C++</text>
+</g>
+<text class="T" x="152" y="40">Dex2C</text>
+<text class="D" x="152" y="63">Turns Android DEX bytecode into</text>
+<text class="D" x="152" y="81">native C++, so an app's logic is</text>
+<text class="D" x="152" y="99">harder to reverse.</text>
+<text class="G" x="152" y="130">Kotlin · JS · dex2c.com</text>
+</svg>

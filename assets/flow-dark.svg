@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 742 190" width="742" height="190" role="img" aria-labelledby="t d">
+<title id="t">Apart, then built</title>
+<desc id="d">Thirty-six squares start as one solid block, drift apart into separate pieces, then reassemble as a phone screen and a menu bar panel, on a loop.</desc>
+<style>
+.T{font:600 17px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#f0f6fc}.D{font:13px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#9198a1}.G{font:11px ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;fill:#6e7681}.M{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}.S{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}.fb{transform-box:fill-box}
+@keyframes hot{0%,18%{fill:#9198a1}30%,90%{fill:#ff7b8a}100%{fill:#9198a1}}.k{animation-duration:12s;animation-timing-function:cubic-bezier(.6,0,.3,1);animation-iteration-count:infinite}
+@keyframes m0{0%,12%{transform:translate(70px,42px)}27%,44%{transform:translate(302.5px,19.0px)}60%,90%{transform:translate(659px,52px)}100%{transform:translate(70px,42px)}}
+@keyframes m1{0%,12%{transform:translate(83px,42px)}27%,44%{transform:translate(321.1px,23.0px)}60%,90%{transform:translate(711px,52px)}100%{transform:translate(83px,42px)}}
+@keyframes m2{0%,12%{transform:translate(96px,42px)}27%,44%{transform:translate(343.6px,24.8px)}60%,90%{transform:translate(605px,66px)}100%{transform:translate(96px,42px)}}
+@keyframes m3{0%,12%{transform:translate(109px,42px)}27%,44%{transform:translate(374.6px,17.4px)}60%,90%{transform:translate(605px,105px)}100%{transform:translate(109px,42px)}}
+@keyframes m4{0%,12%{transform:translate(122px,42px)}27%,44%{transform:translate(397.8px,22.0px)}60%,90%{transform:translate(685px,52px)}100%{transform:translate(122px,42px)}}
+@keyframes m5{0%,12%{transform:translate(135px,42px)}27%,44%{transform:translate(421.4px,26.5px)}60%,90%{transform:translate(592px,92px)}100%{transform:translate(135px,42px)}}
+@keyframes m6{0%,12%{transform:translate(70px,55px)}27%,44%{transform:translate(304.9px,43.1px)}60%,90%{transform:translate(566px,79px)}100%{transform:translate(70px,55px)}}
+@keyframes m7{0%,12%{transform:translate(83px,55px)}27%,44%{transform:translate(327.4px,46.9px)}60%,90%{transform:translate(579px,40px)}100%{transform:translate(83px,55px)}}
+@keyframes m8{0%,12%{transform:translate(96px,55px)}27%,44%{transform:translate(352.7px,39.3px)}60%,90%{transform:translate(592px,40px)}100%{transform:translate(96px,55px)}}
+@keyframes m9{0%,12%{transform:translate(109px,55px)}27%,44%{transform:translate(376.4px,41.2px)}60%,90%{transform:translate(579px,53px)}100%{transform:translate(109px,55px)}}
+@keyframes m10{0%,12%{transform:translate(122px,55px)}27%,44%{transform:translate(392.3px,45.0px)}60%,90%{transform:translate(605px,53px)}100%{transform:translate(122px,55px)}}
+@keyframes m11{0%,12%{transform:translate(135px,55px)}27%,44%{transform:translate(423.4px,48.6px)}60%,90%{transform:translate(566px,66px)}100%{transform:translate(135px,55px)}}
+@keyframes m12{0%,12%{transform:translate(70px,68px)}27%,44%{transform:translate(298.6px,69.3px)}60%,90%{transform:translate(566px,53px)}100%{transform:translate(70px,68px)}}
+@keyframes m13{0%,12%{transform:translate(83px,68px)}27%,44%{transform:translate(319.3px,70.7px)}60%,90%{transform:translate(605px,79px)}100%{transform:translate(83px,68px)}}
+@keyframes m14{0%,12%{transform:translate(96px,68px)}27%,44%{transform:translate(345.9px,66.4px)}60%,90%{transform:translate(592px,53px)}100%{transform:translate(96px,68px)}}
+@keyframes m15{0%,12%{transform:translate(109px,68px)}27%,44%{transform:translate(368.2px,61.4px)}60%,90%{transform:translate(579px,105px)}100%{transform:translate(109px,68px)}}
+@keyframes m16{0%,12%{transform:translate(122px,68px)}27%,44%{transform:translate(391.1px,67.0px)}60%,90%{transform:translate(646px,52px)}100%{transform:translate(122px,68px)}}
+@keyframes m17{0%,12%{transform:translate(135px,68px)}27%,44%{transform:translate(420.6px,69.2px)}60%,90%{transform:translate(592px,66px)}100%{transform:translate(135px,68px)}}
+@keyframes m18{0%,12%{transform:translate(70px,81px)}27%,44%{transform:translate(303.5px,87.2px)}60%,90%{transform:translate(672px,52px)}100%{transform:translate(70px,81px)}}
+@keyframes m19{0%,12%{transform:translate(83px,81px)}27%,44%{transform:translate(327.5px,85.0px)}60%,90%{transform:translate(592px,105px)}100%{transform:translate(83px,81px)}}
+@keyframes m20{0%,12%{transform:translate(96px,81px)}27%,44%{transform:translate(351.8px,85.5px)}60%,90%{transform:translate(579px,92px)}100%{transform:translate(96px,81px)}}
+@keyframes m21{0%,12%{transform:translate(109px,81px)}27%,44%{transform:translate(376.4px,86.8px)}60%,90%{transform:translate(579px,66px)}100%{transform:translate(109px,81px)}}
+@keyframes m22{0%,12%{transform:translate(122px,81px)}27%,44%{transform:translate(395.3px,88.2px)}60%,90%{transform:translate(698px,65px)}100%{transform:translate(122px,81px)}}
+@keyframes m23{0%,12%{transform:translate(135px,81px)}27%,44%{transform:translate(415.6px,83.7px)}60%,90%{transform:translate(566px,40px)}100%{transform:translate(135px,81px)}}
+@keyframes m24{0%,12%{transform:translate(70px,94px)}27%,44%{transform:translate(300.4px,112.1px)}60%,90%{transform:translate(659px,65px)}100%{transform:translate(70px,94px)}}
+@keyframes m25{0%,12%{transform:translate(83px,94px)}27%,44%{transform:translate(319.4px,109.1px)}60%,90%{transform:translate(566px,92px)}100%{transform:translate(83px,94px)}}
+@keyframes m26{0%,12%{transform:translate(96px,94px)}27%,44%{transform:translate(346.7px,112.8px)}60%,90%{transform:translate(605px,92px)}100%{transform:translate(96px,94px)}}
+@keyframes m27{0%,12%{transform:translate(109px,94px)}27%,44%{transform:translate(376.9px,105.9px)}60%,90%{transform:translate(711px,65px)}100%{transform:translate(109px,94px)}}
+@keyframes m28{0%,12%{transform:translate(122px,94px)}27%,44%{transform:translate(396.4px,106.0px)}60%,90%{transform:translate(566px,105px)}100%{transform:translate(122px,94px)}}
+@keyframes m29{0%,12%{transform:translate(135px,94px)}27%,44%{transform:translate(422.8px,114.4px)}60%,90%{transform:translate(698px,52px)}100%{transform:translate(135px,94px)}}
+@keyframes m30{0%,12%{transform:translate(70px,107px)}27%,44%{transform:translate(302.1px,132.8px)}60%,90%{transform:translate(672px,65px)}100%{transform:translate(70px,107px)}}
+@keyframes m31{0%,12%{transform:translate(83px,107px)}27%,44%{transform:translate(319.4px,128.0px)}60%,90%{transform:translate(592px,79px)}100%{transform:translate(83px,107px)}}
+@keyframes m32{0%,12%{transform:translate(96px,107px)}27%,44%{transform:translate(345.4px,127.8px)}60%,90%{transform:translate(605px,40px)}100%{transform:translate(96px,107px)}}
+@keyframes m33{0%,12%{transform:translate(109px,107px)}27%,44%{transform:translate(368.3px,136.6px)}60%,90%{transform:translate(685px,65px)}100%{transform:translate(109px,107px)}}
+@keyframes m34{0%,12%{transform:translate(122px,107px)}27%,44%{transform:translate(394.5px,136.1px)}60%,90%{transform:translate(646px,65px)}100%{transform:translate(122px,107px)}}
+@keyframes m35{0%,12%{transform:translate(135px,107px)}27%,44%{transform:translate(422.6px,134.8px)}60%,90%{transform:translate(579px,79px)}100%{transform:translate(135px,107px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="64" y="36" width="88" height="88" rx="6" fill="none" stroke="#3d444d" stroke-dasharray="3 4"/>
+<rect x="556" y="26" width="70" height="106" rx="12" fill="none" stroke="#3d444d" stroke-width="1.5"/>
+<rect x="584" y="31" width="14" height="3" rx="1.5" fill="#3d444d"/>
+<rect x="638" y="26" width="92" height="12" rx="4" fill="none" stroke="#3d444d" stroke-width="1.5"/>
+<rect x="638" y="44" width="92" height="42" rx="6" fill="none" stroke="#3d444d" stroke-width="1.5"/>
+<circle cx="722" cy="32" r="2.2" fill="#ff7b8a"/>
+<path d="M196 74 h44 m-7 -6 l7 6 l-7 6" fill="none" stroke="#3d444d" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M470 74 h44 m-7 -6 l7 6 l-7 6" fill="none" stroke="#3d444d" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(70px,42px);animation-name:m0"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(83px,42px);animation-name:m1"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(96px,42px);animation-name:m2"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(109px,42px);animation-name:m3"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(122px,42px);animation-name:m4"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(135px,42px);animation-name:m5"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(70px,55px);animation-name:m6"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(83px,55px);animation-name:m7,hot"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(96px,55px);animation-name:m8,hot"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(109px,55px);animation-name:m9,hot"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(122px,55px);animation-name:m10,hot"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(135px,55px);animation-name:m11"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(70px,68px);animation-name:m12,hot"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(83px,68px);animation-name:m13"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(96px,68px);animation-name:m14,hot"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(109px,68px);animation-name:m15"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(122px,68px);animation-name:m16"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(135px,68px);animation-name:m17"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(70px,81px);animation-name:m18"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(83px,81px);animation-name:m19"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(96px,81px);animation-name:m20"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(109px,81px);animation-name:m21"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(122px,81px);animation-name:m22"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(135px,81px);animation-name:m23,hot"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(70px,94px);animation-name:m24"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(83px,94px);animation-name:m25"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(96px,94px);animation-name:m26"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(109px,94px);animation-name:m27"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(122px,94px);animation-name:m28"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(135px,94px);animation-name:m29"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(70px,107px);animation-name:m30"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(83px,107px);animation-name:m31"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(96px,107px);animation-name:m32,hot"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(109px,107px);animation-name:m33"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(122px,107px);animation-name:m34"/>
+<rect class="k" width="11" height="11" rx="2.5" fill="#9198a1" style="transform:translate(135px,107px);animation-name:m35"/>
+<text class="M" x="64" y="168" font-size="12" fill="#ff7b8a">01<tspan fill="#9198a1" dx="8">a binary</tspan></text>
+<text class="M" x="300" y="168" font-size="12" fill="#ff7b8a">02<tspan fill="#9198a1" dx="8">its parts</tspan></text>
+<text class="M" x="556" y="168" font-size="12" fill="#ff7b8a">03<tspan fill="#9198a1" dx="8">tools you run yourself</tspan></text>
+</svg>

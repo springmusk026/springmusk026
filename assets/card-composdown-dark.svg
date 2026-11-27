@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150" width="400" height="150" role="img" aria-labelledby="t d">
+<title id="t">Composdown</title>
+<desc id="d">Markdown for Jetpack Compose that renders streamed text token by token, without flicker. Animation: A heading and four lines of text type themselves out token by token.</desc>
+<style>
+.T{font:600 17px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#f0f6fc}.D{font:13px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#9198a1}.G{font:11px ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;fill:#6e7681}.M{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}.S{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}.fb{transform-box:fill-box}
+@keyframes b{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes t0{0%,3%{transform:scaleX(0)}11%,88%{transform:scaleX(1)}93%,100%{transform:scaleX(0)}}
+@keyframes t1{0%,13%{transform:scaleX(0)}27%,88%{transform:scaleX(1)}93%,100%{transform:scaleX(0)}}
+@keyframes t2{0%,28%{transform:scaleX(0)}42%,88%{transform:scaleX(1)}93%,100%{transform:scaleX(0)}}
+@keyframes t3{0%,43%{transform:scaleX(0)}57%,88%{transform:scaleX(1)}93%,100%{transform:scaleX(0)}}
+@keyframes t4{0%,58%{transform:scaleX(0)}72%,88%{transform:scaleX(1)}93%,100%{transform:scaleX(0)}}
+@keyframes s660_880{0%,66%{opacity:0}71%,88%{opacity:1}94%,100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="399" height="149" rx="12" fill="#151b23" stroke="#3d444d"/>
+<g transform="translate(20,20)">
+<text class="M" x="4" y="18" font-size="15" font-weight="700" fill="#ff7b8a">#</text>
+<rect class="fb" x="20" y="8" width="62" height="9" rx="4.5" fill="#f0f6fc" style="transform-origin:left;animation:t0 7s steps(8,end) infinite"/>
+<rect class="fb" x="4" y="34" width="98" height="6" rx="3" fill="#9198a1" style="transform-origin:left;animation:t1 7s steps(8,end) infinite"/>
+<rect class="fb" x="4" y="51" width="84" height="6" rx="3" fill="#9198a1" style="transform-origin:left;animation:t2 7s steps(8,end) infinite"/>
+<rect class="fb" x="4" y="68" width="102" height="6" rx="3" fill="#9198a1" style="transform-origin:left;animation:t3 7s steps(8,end) infinite"/>
+<rect class="fb" x="4" y="85" width="50" height="6" rx="3" fill="#9198a1" style="transform-origin:left;animation:t4 7s steps(8,end) infinite"/>
+<g style="animation:s660_880 7s linear infinite"><rect x="58" y="83" width="5" height="10" fill="#ff7b8a" style="animation:b 1s linear infinite"/></g>
+</g>
+<text class="T" x="152" y="40">Composdown</text>
+<text class="D" x="152" y="63">Markdown for Jetpack Compose</text>
+<text class="D" x="152" y="81">that renders streamed text token</text>
+<text class="D" x="152" y="99">by token, without flicker.</text>
+<text class="G" x="152" y="130">Kotlin · Compose</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150" width="400" height="150" role="img" aria-labelledby="t d">
+<title id="t">Peekside</title>
+<desc id="d">Which apps used your mic and camera today, and which can read what you type. Animation: A playhead sweeps a day's timeline, revealing microphone and camera sessions.</desc>
+<style>
+.T{font:600 17px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#1f2328}.D{font:13px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#59636e}.G{font:11px ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;fill:#8c959f}.M{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}.S{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}.fb{transform-box:fill-box}
+@keyframes ph{0%{transform:translateX(0);opacity:0}4%,92%{opacity:.8}100%{transform:translateX(110px);opacity:0}}
+@keyframes s67_930{0%,6.7%{opacity:0}11.7%,93%{opacity:1}99%,100%{opacity:0}}
+@keyframes s335_930{0%,33.5%{opacity:0}38.5%,93%{opacity:1}99%,100%{opacity:0}}
+@keyframes s719_930{0%,71.9%{opacity:0}76.9%,93%{opacity:1}99%,100%{opacity:0}}
+@keyframes s602_930{0%,60.2%{opacity:0}65.2%,93%{opacity:1}99%,100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="399" height="149" rx="12" fill="#f6f8fa" stroke="#d1d9e0"/>
+<g transform="translate(20,20)">
+<text class="M" x="0" y="24" font-size="9.5" fill="#8c959f">mic</text>
+<rect x="0" y="30" width="110" height="8" rx="4" fill="#d1d9e0"/>
+<rect x="8" y="30" width="14" height="8" rx="4" fill="#c8102e" style="animation:s67_930 6s linear infinite"/>
+<rect x="40" y="30" width="26" height="8" rx="4" fill="#c8102e" style="animation:s335_930 6s linear infinite"/>
+<rect x="86" y="30" width="10" height="8" rx="4" fill="#c8102e" style="animation:s719_930 6s linear infinite"/>
+<text class="M" x="0" y="62" font-size="9.5" fill="#8c959f">cam</text>
+<rect x="0" y="68" width="110" height="8" rx="4" fill="#d1d9e0"/>
+<rect x="40" y="68" width="20" height="8" rx="4" fill="#1a7f37" style="animation:s335_930 6s linear infinite"/>
+<rect x="72" y="68" width="7" height="8" rx="4" fill="#1a7f37" style="animation:s602_930 6s linear infinite"/>
+<rect x="-0.75" y="12" width="1.5" height="78" fill="#1f2328" style="animation:ph 6s linear infinite"/>
+<text class="M" x="0" y="104" font-size="8.5" fill="#8c959f">00</text>
+<text class="M" x="30" y="104" font-size="8.5" fill="#8c959f">06</text>
+<text class="M" x="60" y="104" font-size="8.5" fill="#8c959f">12</text>
+<text class="M" x="90" y="104" font-size="8.5" fill="#8c959f">18</text>
+</g>
+<text class="T" x="152" y="40">Peekside</text>
+<text class="D" x="152" y="63">Which apps used your mic and</text>
+<text class="D" x="152" y="81">camera today, and which can</text>
+<text class="D" x="152" y="99">read what you type.</text>
+<text class="G" x="152" y="130">Swift · menu bar + CLI</text>
+</svg>

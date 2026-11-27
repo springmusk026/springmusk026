@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150" width="400" height="150" role="img" aria-labelledby="t d">
+<title id="t">AntiBloater</title>
+<desc id="d">Removes carrier and OEM bloat without root, over a local ADB connection from the phone itself. Animation: A phone's grid of apps, with three apps disappearing one by one.</desc>
+<style>
+.T{font:600 17px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#f0f6fc}.D{font:13px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#9198a1}.G{font:11px ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;fill:#6e7681}.M{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}.S{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}.fb{transform-box:fill-box}
+
+@keyframes x14{0%,14%{transform:scale(1);opacity:1}23%,86%{transform:scale(0);opacity:0}95%,100%{transform:scale(1);opacity:1}}
+@keyframes x32{0%,32%{transform:scale(1);opacity:1}41%,86%{transform:scale(0);opacity:0}95%,100%{transform:scale(1);opacity:1}}
+@keyframes x50{0%,50%{transform:scale(1);opacity:1}59%,86%{transform:scale(0);opacity:0}95%,100%{transform:scale(1);opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="399" height="149" rx="12" fill="#151b23" stroke="#3d444d"/>
+<g transform="translate(20,20)">
+<rect x="28" y="2" width="54" height="106" rx="11" fill="none" stroke="#3d444d" stroke-width="1.5"/>
+<rect x="48" y="8" width="14" height="3" rx="1.5" fill="#3d444d"/>
+<rect x="35.5" y="20" width="11" height="11" rx="3" fill="#6e7681"/>
+<rect class="fb" x="49.5" y="20" width="11" height="11" rx="3" fill="#ff7b8a" style="transform-origin:center;animation:x14 7s ease-in-out infinite"/>
+<rect x="63.5" y="20" width="11" height="11" rx="3" fill="#6e7681"/>
+<rect x="35.5" y="40" width="11" height="11" rx="3" fill="#6e7681"/>
+<rect x="49.5" y="40" width="11" height="11" rx="3" fill="#6e7681"/>
+<rect class="fb" x="63.5" y="40" width="11" height="11" rx="3" fill="#ff7b8a" style="transform-origin:center;animation:x32 7s ease-in-out infinite"/>
+<rect x="35.5" y="60" width="11" height="11" rx="3" fill="#6e7681"/>
+<rect x="49.5" y="60" width="11" height="11" rx="3" fill="#6e7681"/>
+<rect x="63.5" y="60" width="11" height="11" rx="3" fill="#6e7681"/>
+<rect class="fb" x="35.5" y="80" width="11" height="11" rx="3" fill="#ff7b8a" style="transform-origin:center;animation:x50 7s ease-in-out infinite"/>
+<rect x="49.5" y="80" width="11" height="11" rx="3" fill="#6e7681"/>
+<rect x="63.5" y="80" width="11" height="11" rx="3" fill="#6e7681"/>
+</g>
+<text class="T" x="152" y="40">AntiBloater</text>
+<text class="D" x="152" y="63">Removes carrier and OEM bloat</text>
+<text class="D" x="152" y="81">without root, over a local ADB</text>
+<text class="D" x="152" y="99">connection from the phone itself.</text>
+<text class="G" x="152" y="130">Kotlin · Android</text>
+</svg>

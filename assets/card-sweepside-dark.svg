@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150" width="400" height="150" role="img" aria-labelledby="t d">
+<title id="t">Sweepside</title>
+<desc id="d">Finds the gigabytes old projects hold in build folders and trashes them, with undo. Animation: Three bars labelled node_modules, .venv and DerivedData shrink to nothing.</desc>
+<style>
+.T{font:600 17px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#f0f6fc}.D{font:13px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#9198a1}.G{font:11px ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;fill:#6e7681}.M{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}.S{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}.fb{transform-box:fill-box}
+
+@keyframes z0{0%,12%{transform:scaleX(1)}26%,86%{transform:scaleX(0)}95%,100%{transform:scaleX(1)}}
+@keyframes z1{0%,30%{transform:scaleX(1)}44%,86%{transform:scaleX(0)}95%,100%{transform:scaleX(1)}}
+@keyframes z2{0%,48%{transform:scaleX(1)}62%,86%{transform:scaleX(0)}95%,100%{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="399" height="149" rx="12" fill="#151b23" stroke="#3d444d"/>
+<g transform="translate(20,20)">
+<text class="M" x="0" y="12" font-size="9.5" fill="#6e7681">node_modules</text>
+<rect x="0" y="18" width="110" height="7" rx="3.5" fill="#3d444d"/>
+<rect class="fb" x="0" y="18" width="98" height="7" rx="3.5" fill="#ff7b8a" style="transform-origin:left;animation:z0 7s ease-in-out infinite"/>
+<text class="M" x="0" y="48" font-size="9.5" fill="#6e7681">.venv</text>
+<rect x="0" y="54" width="110" height="7" rx="3.5" fill="#3d444d"/>
+<rect class="fb" x="0" y="54" width="56" height="7" rx="3.5" fill="#ff7b8a" style="transform-origin:left;animation:z1 7s ease-in-out infinite"/>
+<text class="M" x="0" y="84" font-size="9.5" fill="#6e7681">DerivedData</text>
+<rect x="0" y="90" width="110" height="7" rx="3.5" fill="#3d444d"/>
+<rect class="fb" x="0" y="90" width="80" height="7" rx="3.5" fill="#ff7b8a" style="transform-origin:left;animation:z2 7s ease-in-out infinite"/>
+</g>
+<text class="T" x="152" y="40">Sweepside</text>
+<text class="D" x="152" y="63">Finds the gigabytes old projects</text>
+<text class="D" x="152" y="81">hold in build folders and trashes</text>
+<text class="D" x="152" y="99">them, with undo.</text>
+<text class="G" x="152" y="130">Swift · menu bar + CLI</text>
+</svg>

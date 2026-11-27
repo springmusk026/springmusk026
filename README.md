@@ -1,70 +1,65 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="742" alt="Basanta Sapkota, Kathmandu, Nepal. The name and city are shown as the decoded column of a hex dump.">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" width="742" alt="Basanta Sapkota, Kathmandu, Nepal. The name and city appear as the decoded column of a hex dump."></picture>
 
-I'm a software engineer at NxP Studio in Kathmandu. My work splits two ways: taking software apart (Unity IL2CPP, native Android, DEX bytecode) and building small tools that run on your own device, with no account and nothing phoning home.
+### I take software apart, and I build tools that run on your own device.
 
-Five years in, across mobile, systems and web. Currently learning Rust.
+Software engineer at NxP Studio. Five years across Android, systems and web, mostly in Kotlin, Swift, C++ and TypeScript. What I ship tends to work offline, ask for no account and send nothing anywhere.
 
 [Website](https://springmusk.dev) · [Blog](https://basantasapkota026.com.np) · [LinkedIn](https://np.linkedin.com/in/basanta-sapkota-57529923b) · [Telegram](https://t.me/springmusk) · [Email](mailto:springmusk@gmail.com)
 
-## Now
+<br>
 
-- **[Locus](https://github.com/springmusk026/locus)** is a local-first AI agent for Android. You bring the model (an API key, a local server or on-device Gemma) and it gets a Linux workspace, a browser you can watch, sub-agents and an approval step before it acts.
-- **[Composdown](https://github.com/springmusk026/Composdown)** is a Markdown renderer for Jetpack Compose built for streamed text. It parses incrementally, so a chat reply can arrive token by token without flicker.
-- **[Tithimala](https://github.com/springmusk026/tithimala)** (तिथिमाला) is an open-source Nepali calendar for Android in Bikram Sambat, with no ads.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/flow-dark.svg"><img src="assets/flow-light.svg" width="742" alt="A block of squares labelled a binary drifts apart into its parts, then reassembles as a phone and a menu bar panel labelled tools you run yourself."></picture>
 
-## Projects
+## Taken apart
 
-### Reverse engineering
+<a href="https://github.com/springmusk026/Il2CppDumper-Python"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-il2cpp-dark.svg"><img src="assets/card-il2cpp-light.svg" width="400" alt="Il2CppDumper: reads a Unity IL2CPP binary and writes back its types, methods and fields."></picture></a> <a href="https://github.com/springmusk026/Dex2C-Tool"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-dex2c-dark.svg"><img src="assets/card-dex2c-light.svg" width="400" alt="Dex2C: turns Android DEX bytecode into native C++ so an app's logic is harder to reverse."></picture></a>
 
-Tools for reading Unity IL2CPP binaries and for making Android apps harder to read. This is the work most people find me through.
+## Built for the phone
 
-| Project | What it does | Built with |
-| :-- | :-- | :-- |
-| **[Il2CppDumper-Python](https://github.com/springmusk026/Il2CppDumper-Python)** | Extracts type, method and field metadata from Unity IL2CPP games. | Python |
-| **[Frida-Il2cpp-Dumper](https://github.com/springmusk026/Frida-Il2cpp-Dumper)** | Dumps the same metadata from a running process with Frida, for stripped binaries that have no symbols. | TypeScript |
-| **[Android-Native-Il2cppDumper](https://github.com/springmusk026/Android-Native-Il2cppDumper)** | Does the dump on the phone itself: a Compose app over a C++20 core. No PC, no root. | Kotlin, C++ |
-| **[Dex2C](https://github.com/springmusk026/Dex2C-Tool)** | Converts Android DEX bytecode to native C/C++ so app logic is harder to reverse. Comes with an [Android client](https://github.com/springmusk026/Dex2C-Android), a [web front end](https://github.com/springmusk026/dex2c-web) and a [backend](https://github.com/springmusk026/Dex2C-Backend). | Kotlin, JS |
-| **[Imgui-Unity](https://github.com/springmusk026/Imgui-Unity)** | A Dear ImGui overlay for Unity games on Android. | C++ |
-| **[libmain.so](https://github.com/springmusk026/libmain.so)** | Source for `libmain.so`, the native loader in Unity's Android games. | C++ |
+<a href="https://github.com/springmusk026/locus"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-locus-dark.svg"><img src="assets/card-locus-light.svg" width="400" alt="Locus: an AI agent on your phone. Bring your own model; it gets a Linux workspace and asks before acting."></picture></a> <a href="https://github.com/springmusk026/AntiBloater"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-antibloater-dark.svg"><img src="assets/card-antibloater-light.svg" width="400" alt="AntiBloater: removes carrier and OEM bloat without root, over a local ADB connection from the phone itself."></picture></a> <a href="https://github.com/springmusk026/Composdown"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-composdown-dark.svg"><img src="assets/card-composdown-light.svg" width="400" alt="Composdown: Markdown for Jetpack Compose that renders streamed text token by token without flicker."></picture></a> <a href="https://github.com/springmusk026/tithimala"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-tithimala-dark.svg"><img src="assets/card-tithimala-light.svg" width="400" alt="Tithimala: an open-source Nepali calendar in Bikram Sambat, with no ads."></picture></a>
 
-### Mac menu bar tools
+## Built for the menu bar
 
-Each one is a menu bar app plus a CLI. They work locally, need no account and make no network requests.
-
-| Project | What it does | Built with |
-| :-- | :-- | :-- |
-| **[Portside](https://github.com/springmusk026/Portside)** | Every dev server running on your Mac, which project it belongs to, and a one-click stop. | Swift |
-| **[Sweepside](https://github.com/springmusk026/Sweepside)** | Finds the gigabytes old projects hold in `node_modules`, `.venv`, `target` and DerivedData, and moves them to the Trash with undo. | Swift |
-| **[Peekside](https://github.com/springmusk026/Peekside)** | A timeline of which apps used your microphone and camera today, and which can read what you type. | Swift |
-| **[ClaudeMeter](https://github.com/springmusk026/ClaudeMeter)** | Claude Code usage in the menu bar: plan limits, live sessions and cost. | Swift |
+<a href="https://github.com/springmusk026/Portside"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-portside-dark.svg"><img src="assets/card-portside-light.svg" width="400" alt="Portside: every dev server running on your Mac, which project owns it, and a one-click stop."></picture></a> <a href="https://github.com/springmusk026/Sweepside"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-sweepside-dark.svg"><img src="assets/card-sweepside-light.svg" width="400" alt="Sweepside: finds the gigabytes old projects hold in build folders and trashes them, with undo."></picture></a> <a href="https://github.com/springmusk026/Peekside"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-peekside-dark.svg"><img src="assets/card-peekside-light.svg" width="400" alt="Peekside: which apps used your mic and camera today, and which can read what you type."></picture></a> <a href="https://github.com/springmusk026/ClaudeMeter"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-claudemeter-dark.svg"><img src="assets/card-claudemeter-light.svg" width="400" alt="ClaudeMeter: Claude Code plan limits, live sessions and cost, in the menu bar."></picture></a>
 
 ```sh
 brew install springmusk026/tap/portside
 ```
 
-### Android and web
+<details>
+<summary>Everything as plain text</summary>
+<br>
 
-| Project | What it does | Built with |
-| :-- | :-- | :-- |
-| **[AntiBloater](https://github.com/springmusk026/AntiBloater)** | Removes carrier and OEM bloatware without root. It opens a local ADB connection from the phone and runs the `pm uninstall` commands you pick. | Kotlin |
-| **[CloudEdge](https://github.com/springmusk026/CloudEdge)** | A blog and CMS that runs entirely on Cloudflare: Workers, D1, R2, KV and Durable Objects. | TypeScript |
-| **[Anthropic-Adapter](https://github.com/springmusk026/Anthropic-Adapter)** | A small Bun service that accepts Anthropic Messages API requests and forwards them to an OpenAI-compatible backend. | TypeScript |
-| **[Open-Monitor-YT](https://github.com/springmusk026/Open-Monitor-YT)** | A self-hosted tool for keeping an eye on competing YouTube channels. | TypeScript |
-| **[X-Pense](https://github.com/springmusk026/X-Pense)** | An expense tracker with categories, recurring payments and per-card spending. | React Native |
+**Reverse engineering.**
+[Il2CppDumper-Python](https://github.com/springmusk026/Il2CppDumper-Python),
+[Frida-Il2cpp-Dumper](https://github.com/springmusk026/Frida-Il2cpp-Dumper) for running processes,
+[Android-Native-Il2cppDumper](https://github.com/springmusk026/Android-Native-Il2cppDumper) for dumping on the phone itself,
+[Dex2C](https://github.com/springmusk026/Dex2C-Tool) with its [Android](https://github.com/springmusk026/Dex2C-Android), [web](https://github.com/springmusk026/dex2c-web) and [backend](https://github.com/springmusk026/Dex2C-Backend) parts,
+[Imgui-Unity](https://github.com/springmusk026/Imgui-Unity) and
+[libmain.so](https://github.com/springmusk026/libmain.so).
 
-## Stack
+**Android.**
+[Locus](https://github.com/springmusk026/locus),
+[AntiBloater](https://github.com/springmusk026/AntiBloater),
+[Composdown](https://github.com/springmusk026/Composdown) and
+[Tithimala](https://github.com/springmusk026/tithimala).
 
-- **Systems:** C and C++, Frida, ADB, IL2CPP internals, Linux
-- **Apps:** Kotlin with Jetpack Compose, Swift with SwiftUI, Flutter, React Native
-- **Web:** TypeScript, React and Next.js, Node and Bun, Laravel
-- **Infrastructure:** Cloudflare Workers, AWS, GCP, Docker, MySQL, MongoDB
+**Mac.**
+[Portside](https://github.com/springmusk026/Portside),
+[Sweepside](https://github.com/springmusk026/Sweepside),
+[Peekside](https://github.com/springmusk026/Peekside) and
+[ClaudeMeter](https://github.com/springmusk026/ClaudeMeter).
+
+**Web.**
+[CloudEdge](https://github.com/springmusk026/CloudEdge), a blog and CMS that runs entirely on Cloudflare.
+[Anthropic-Adapter](https://github.com/springmusk026/Anthropic-Adapter), which forwards Anthropic Messages API requests to an OpenAI-compatible backend.
+[Open-Monitor-YT](https://github.com/springmusk026/Open-Monitor-YT), a self-hosted watcher for competing YouTube channels.
+
+</details>
 
 ## Writing
 
-I write about Android, AI tools and tech in Nepal at [basantasapkota026.com.np](https://basantasapkota026.com.np). The latest posts:
+I write about Android, AI tools and tech in Nepal at [basantasapkota026.com.np](https://basantasapkota026.com.np).
 
 <!-- BLOG-POST-LIST:START -->
 - [Google finally added new Claude models to Antigravity after the 4.6 series](https://www.basantasapkota026.com.np/2026/10/google-finally-added-new-claude-models.html)
@@ -74,6 +69,8 @@ I write about Android, AI tools and tech in Nepal at [basantasapkota026.com.np](
 - [Who Really Wants to Slow Down AI — And Why You Should Be Suspicious](https://www.basantasapkota026.com.np/2026/09/who-really-wants-to-slow-down-ai-and.html)
 <!-- BLOG-POST-LIST:END -->
 
-## Get in touch
+<br>
+
+<a href="https://t.me/springmusk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><img src="assets/footer-light.svg" width="742" alt="The hex dump from the top of the page continues and decodes to t.me/springmusk and springmusk.dev."></picture></a>
 
 Telegram is fastest: [@springmusk](https://t.me/springmusk). For anything longer, write to [springmusk@gmail.com](mailto:springmusk@gmail.com).

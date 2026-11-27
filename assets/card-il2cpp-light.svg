@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150" width="400" height="150" role="img" aria-labelledby="t d">
+<title id="t">Il2CppDumper</title>
+<desc id="d">Reads a Unity IL2CPP binary and writes back its types, methods and fields. Animation: Rows of raw bytes resolve into lines of code.</desc>
+<style>
+.T{font:600 17px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#1f2328}.D{font:13px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#59636e}.G{font:11px ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;fill:#8c959f}.M{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}.S{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}.fb{transform-box:fill-box}
+@keyframes q{0%,8%{opacity:1}15%,80%{opacity:0}90%,100%{opacity:1}}@keyframes l{0%,8%{opacity:0;transform:scaleX(0)}18%,80%{opacity:1;transform:scaleX(1)}88%,100%{opacity:0;transform:scaleX(1)}}.q{animation:q 7s ease-in-out infinite backwards}.l{animation:l 7s ease-in-out infinite backwards;transform-origin:left}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="399" height="149" rx="12" fill="#f6f8fa" stroke="#d1d9e0"/>
+<g transform="translate(20,20)">
+<rect class="q" x="4" y="8" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:0.0s"/>
+<rect class="q" x="21" y="8" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:0.0s"/>
+<rect class="q" x="38" y="8" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:0.0s"/>
+<rect class="q" x="55" y="8" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:0.0s"/>
+<rect class="q" x="72" y="8" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:0.0s"/>
+<rect class="q" x="89" y="8" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:0.0s"/>
+<rect class="l fb" x="4" y="11" width="74" height="4" rx="2" fill="#c8102e" style="animation-delay:0.0s"/>
+<rect class="q" x="4" y="29" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:0.4s"/>
+<rect class="q" x="21" y="29" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:0.4s"/>
+<rect class="q" x="38" y="29" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:0.4s"/>
+<rect class="q" x="55" y="29" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:0.4s"/>
+<rect class="q" x="72" y="29" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:0.4s"/>
+<rect class="q" x="89" y="29" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:0.4s"/>
+<rect class="l fb" x="18" y="32" width="58" height="4" rx="2" fill="#59636e" style="animation-delay:0.4s"/>
+<rect class="q" x="4" y="50" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:0.8s"/>
+<rect class="q" x="21" y="50" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:0.8s"/>
+<rect class="q" x="38" y="50" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:0.8s"/>
+<rect class="q" x="55" y="50" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:0.8s"/>
+<rect class="q" x="72" y="50" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:0.8s"/>
+<rect class="q" x="89" y="50" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:0.8s"/>
+<rect class="l fb" x="18" y="53" width="84" height="4" rx="2" fill="#59636e" style="animation-delay:0.8s"/>
+<rect class="q" x="4" y="71" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:1.2s"/>
+<rect class="q" x="21" y="71" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:1.2s"/>
+<rect class="q" x="38" y="71" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:1.2s"/>
+<rect class="q" x="55" y="71" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:1.2s"/>
+<rect class="q" x="72" y="71" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:1.2s"/>
+<rect class="q" x="89" y="71" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:1.2s"/>
+<rect class="l fb" x="18" y="74" width="46" height="4" rx="2" fill="#59636e" style="animation-delay:1.2s"/>
+<rect class="q" x="4" y="92" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:1.6s"/>
+<rect class="q" x="21" y="92" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:1.6s"/>
+<rect class="q" x="38" y="92" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:1.6s"/>
+<rect class="q" x="55" y="92" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:1.6s"/>
+<rect class="q" x="72" y="92" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:1.6s"/>
+<rect class="q" x="89" y="92" width="10" height="10" rx="2" fill="#8c959f" style="animation-delay:1.6s"/>
+<rect class="l fb" x="4" y="95" width="12" height="4" rx="2" fill="#c8102e" style="animation-delay:1.6s"/>
+</g>
+<text class="T" x="152" y="40">Il2CppDumper</text>
+<text class="D" x="152" y="63">Reads a Unity IL2CPP binary and</text>
+<text class="D" x="152" y="81">writes back its types, methods</text>
+<text class="D" x="152" y="99">and fields.</text>
+<text class="G" x="152" y="130">Python · also Frida and on-device</text>
+</svg>

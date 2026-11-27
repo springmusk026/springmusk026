@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150" width="400" height="150" role="img" aria-labelledby="t d">
+<title id="t">Locus</title>
+<desc id="d">An AI agent on your phone. Bring your own model. It gets a Linux workspace and asks before acting. Animation: Inside a phone, one node branches into three helpers, then an approval tick appears.</desc>
+<style>
+.T{font:600 17px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#f0f6fc}.D{font:13px -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#9198a1}.G{font:11px ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;fill:#6e7681}.M{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}.S{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}.fb{transform-box:fill-box}
+@keyframes r{0%,100%{transform:scale(1)}50%{transform:scale(1.25)}}.r{animation:r 2s ease-in-out infinite;transform-origin:center}
+@keyframes s100_880{0%,10%{opacity:0}15%,88%{opacity:1}94%,100%{opacity:0}}
+@keyframes s160_880{0%,16%{opacity:0}21%,88%{opacity:1}94%,100%{opacity:0}}
+@keyframes s220_880{0%,22%{opacity:0}27%,88%{opacity:1}94%,100%{opacity:0}}
+@keyframes s280_880{0%,28%{opacity:0}33%,88%{opacity:1}94%,100%{opacity:0}}
+@keyframes s340_880{0%,34%{opacity:0}39%,88%{opacity:1}94%,100%{opacity:0}}
+@keyframes s520_880{0%,52%{opacity:0}57%,88%{opacity:1}94%,100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="399" height="149" rx="12" fill="#151b23" stroke="#3d444d"/>
+<g transform="translate(20,20)">
+<rect x="28" y="2" width="54" height="106" rx="11" fill="none" stroke="#3d444d" stroke-width="1.5"/>
+<rect x="48" y="8" width="14" height="3" rx="1.5" fill="#3d444d"/>
+<path d="M55 32 L40 55" fill="none" stroke="#9198a1" stroke-width="1.3" stroke-linecap="round" style="animation:s100_880 6s ease-out infinite"/>
+<path d="M55 32 L55 55" fill="none" stroke="#9198a1" stroke-width="1.3" stroke-linecap="round" style="animation:s160_880 6s ease-out infinite"/>
+<path d="M55 32 L70 55" fill="none" stroke="#9198a1" stroke-width="1.3" stroke-linecap="round" style="animation:s220_880 6s ease-out infinite"/>
+<circle class="r fb" cx="55" cy="26" r="5" fill="#ff7b8a"/>
+<g style="animation:s220_880 6s ease-out infinite"><circle cx="40" cy="60" r="4" fill="#f0f6fc"/><rect x="35" y="69" width="10" height="3" rx="1.5" fill="#6e7681"/></g>
+<g style="animation:s280_880 6s ease-out infinite"><circle cx="55" cy="60" r="4" fill="#f0f6fc"/><rect x="50" y="69" width="10" height="3" rx="1.5" fill="#6e7681"/></g>
+<g style="animation:s340_880 6s ease-out infinite"><circle cx="70" cy="60" r="4" fill="#f0f6fc"/><rect x="65" y="69" width="10" height="3" rx="1.5" fill="#6e7681"/></g>
+<g style="animation:s520_880 6s ease-out infinite"><rect x="37" y="86" width="36" height="12" rx="6" fill="#ff7b8a"/><path d="M50 92 l3.4 3.2 l6.2 -6.4" fill="none" stroke="#151b23" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g>
+<text class="T" x="152" y="40">Locus</text>
+<text class="D" x="152" y="63">An AI agent on your phone. Bring</text>
+<text class="D" x="152" y="81">your own model. It gets a Linux</text>
+<text class="D" x="152" y="99">workspace and asks before acting.</text>
+<text class="G" x="152" y="130">Kotlin · Android</text>
+</svg>
