@@ -68,7 +68,7 @@ I write about Android, AI tools and tech in Nepal at [basantasapkota026.com.np](
 
 <!-- BLOG-POST-LIST:START -->
 - [Google finally added new Claude models to Antigravity after the 4.6 series](https://www.basantasapkota026.com.np/2026/10/google-finally-added-new-claude-models.html)
-- [Nepal's Government Tech Workers Are Failing Us: SSL Lapses, Data Leaks, and AI Slop Everywhere](https://www.basantasapkota026.com.np/2026/10/nepals-government-tech-workers-are.html)
+- [Nepal&#39;s Government Tech Workers Are Failing Us: SSL Lapses, Data Leaks, and AI Slop Everywhere](https://www.basantasapkota026.com.np/2026/10/nepals-government-tech-workers-are.html)
 - [Internet in Nepal Is Cheap — But at What Cost?](https://www.basantasapkota026.com.np/2026/09/internet-in-nepal-is-cheap-but-at-what.html)
 - [Googlebook Is Here: Android Finally Comes to Your Laptop](https://www.basantasapkota026.com.np/2026/09/googlebook-is-here-android-finally.html)
 - [Who Really Wants to Slow Down AI — And Why You Should Be Suspicious](https://www.basantasapkota026.com.np/2026/09/who-really-wants-to-slow-down-ai-and.html)
